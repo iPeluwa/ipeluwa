@@ -8,7 +8,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipeluwa&layout=compact&theme=radical)](https://github.com/ipeluwa/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/ipeluwa)
+<!-- ![Profile views](https://gpvc.arturio.dev/ipeluwa) -->
 
 
 
