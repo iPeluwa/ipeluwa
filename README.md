@@ -21,9 +21,6 @@
 ## 📈 GitHub Stats
 ![Oluwapeluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipeluwa&show_icons=true&theme=dark&count_private=true)
 
-## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipeluwa&layout=compact&theme=dark)
-
 I'm passionate about Python development and always eager to take on new challenges. Whether it's crafting efficient backend solutions or exploring the latest in Python libraries and frameworks, I'm all in!
 
 When I'm not coding, you can find me gaming or exploring new technologies. I believe in the power of collaboration and am always open to interesting projects.
