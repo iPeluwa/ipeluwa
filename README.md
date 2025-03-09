@@ -2,27 +2,28 @@
 
 ## About Me
 - 😄 Pronouns: He/Him
-- 💻 Python Developer
-- 🐍 Python enthusiast with skills in PHP, Go, and Rust
+- 💻 Software Engineer at APIToolkit
+- 🦀 Rust and Haskell enthusiast with experience in Python, PHP, and Go
 - ⚡ Fun fact: I'm a gamer!
 
 ## What I'm up to
-- 🔭 I'm currently working on exciting Python projects
-- 🌱 I'm always learning and improving my skills in Python, PHP, Go, and Rust
-- 👯 I'm looking to collaborate on anything nice, especially Python-related projects
-- 💬 Ask me about Python, backend development, or gaming!
+- 🔭 I'm currently working as a Software Engineer at APIToolkit, building robust tools and solutions
+- 🌱 I'm contributing to open-source projects and sharpening my skills in Rust and Haskell
+- 👯 I'm looking to collaborate on innovative projects, especially those involving Rust, Haskell, or open-source initiatives
+- 💬 Ask me about Rust, Haskell, backend development, or gaming!
 
 ## 🚀 Technologies & Tools
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 
 ## 📈 GitHub Stats
 ![Oluwapeluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipeluwa&show_icons=true&theme=dark&count_private=true)
 
-I'm passionate about Python development and always eager to take on new challenges. Whether it's crafting efficient backend solutions or exploring the latest in Python libraries and frameworks, I'm all in!
+I'm passionate about software engineering and love diving into complex challenges. Currently, I’m focused on crafting high-performance systems with Rust and exploring functional programming with Haskell at APIToolkit. Contributing to open-source projects keeps me connected to the community and fuels my growth as a developer.
 
-When I'm not coding, you can find me gaming or exploring new technologies. I believe in the power of collaboration and am always open to interesting projects.
+When I'm not coding, you’ll catch me gaming or tinkering with new tech. I thrive on collaboration and am always up for a chat about code, games, or exciting project ideas.
 
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate, discuss Python, or just chat about code and games!
+Feel free to check out my repositories and reach out if you’d like to collaborate, discuss Rust/Haskell, or just geek out over tech and gaming!
