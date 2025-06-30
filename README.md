@@ -1,34 +1,70 @@
 # Hi there, I'm Oluwapeluwa Ibrahim 👋
 
-## About Me
-- 😄 Pronouns: He/Him
-- 💻 Software Engineer at APIToolkit
-- 🦀 Rust and Haskell enthusiast with experience in Python, PHP, and Go
-- ⚡ Fun fact: I'm a gamer!
+<div align="center">
 
-## What I'm up to
-- 🔭 Currently working as a Software Engineer at APIToolkit, building robust tools and solutions
-- 🌱 Contributing to open-source projects and sharpening my skills in Rust and Haskell
-- 👯 Looking to collaborate on innovative projects, especially those involving Rust, Haskell, or open-source initiatives
-- 💬 Ask me about Rust, Haskell, backend development, AI-assisted coding, or gaming!
+[![GitHub followers](https://img.shields.io/github/followers/ipeluwa?style=social)](https://github.com/ipeluwa)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ipeluwa1?style=social)](https://twitter.com/ipeluwa1)
 
-## 🚀 Technologies & Tools
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=Haskell&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+</div>
 
-## 📈 GitHub Stats
-![Oluwapeluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipeluwa&show_icons=true&theme=dark&count_private=true)
+## 🚀 About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ipeluwa&layout=compact&theme=dark&count_private=true)
+I'm a passionate **Software Engineer at APIToolkit**, where I build robust tools and solutions that empower developers worldwide. My journey in tech is driven by a love for functional programming, systems engineering, and the exciting possibilities of AI-assisted development.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipeluwa&theme=dark)
+- 🦀 **Rust & Haskell enthusiast** - I believe in the power of type safety and functional programming
+- 🤖 **AI-first developer** - Leveraging tools like Amp and other AI assistants to enhance productivity
+- 🎮 **Avid gamer** - When I'm not coding, you'll find me exploring virtual worlds
+- 🌍 **Open source contributor** - Giving back to the community that has given me so much
 
-I'm passionate about software engineering and love diving into complex challenges. Currently, I’m focused on crafting high-performance systems with Rust and exploring functional programming with Haskell at APIToolkit. Contributing to open-source projects keeps me connected to the community and fuels my growth as a developer.
+## 💻 Tech Stack
 
-When I'm not coding, you’ll catch me gaming or tinkering with new tech. I thrive on collaboration and am always up for a chat about code, games, or exciting project ideas.
+### Languages I Love
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&logoColor=white)
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=Haskell&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 
-Feel free to check out my repositories and reach out if you’d like to collaborate, discuss Rust/Haskell, or just geek out over tech and gaming!
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+## 🎯 What I'm Currently Working On
+
+- 🔧 **Building next-gen API monitoring tools** at APIToolkit
+- 📚 **Deep diving into advanced Rust patterns** and exploring zero-cost abstractions
+- 🤝 **Contributing to open-source Rust and Haskell projects**
+- 🧠 **Experimenting with AI-assisted development workflows**
+- 🎮 **Side project**: Building a game in Rust using Bevy engine
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![Oluwapeluwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipeluwa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ipeluwa&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm always excited to discuss:
+- 🦀 **Rust** - From ownership models to async programming
+- 🧮 **Haskell** - Category theory, monads, and elegant functional solutions
+- 🤖 **AI-assisted development** - How AI is transforming our coding workflows
+- 🎮 **Game development** - Especially in Rust with engines like Bevy
+- 🌐 **API design and monitoring** - Building reliable, observable systems
+
+---
+
+<div align="center">
+
+*"Code is poetry written in logic"* ✨
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ipeluwa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ipeluwa1)
+
+</div>
