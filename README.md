@@ -12,7 +12,6 @@
 I'm a passionate **Software Engineer at APIToolkit**, where I build robust tools and solutions that empower developers worldwide. My journey in tech is driven by a love for functional programming, systems engineering, and the exciting possibilities of AI-assisted development.
 
 - 🦀 **Rust & Haskell enthusiast** - I believe in the power of type safety and functional programming
-- 🤖 **AI-first developer** - Leveraging tools like Amp and other AI assistants to enhance productivity
 - 🎮 **Avid gamer** - When I'm not coding, you'll find me exploring virtual worlds
 - 🌍 **Open source contributor** - Giving back to the community that has given me so much
 
@@ -36,7 +35,6 @@ I'm a passionate **Software Engineer at APIToolkit**, where I build robust tools
 - 🔧 **Building next-gen API monitoring tools** at APIToolkit
 - 📚 **Deep diving into advanced Rust patterns** and exploring zero-cost abstractions
 - 🤝 **Contributing to open-source Rust and Haskell projects**
-- 🧠 **Experimenting with AI-assisted development workflows**
 - 🎮 **Side project**: Building a game in Rust using Bevy engine
 
 ## 📊 GitHub Activity
